@@ -1,6 +1,6 @@
 [![111.jpg](https://i.postimg.cc/x8PDLpXT/111.jpg)](https://postimg.cc/kRDpmcNk)
 #### Biography
-* **_Col.Bhoomjit Bhoominath_** received B.S. degree in machanical engineering from [Chulachomkao Military Academy School](http://www.crma.ac.th/) in 2004. 
+* **_Col.Bhoomjit Bhoominath_** received B.S. degree in mechanical engineering from [Chulachomkao Military Academy School](http://www.crma.ac.th/) in 2004. 
 * He is also studying M.S. degree in Cybersecurity at Mahanakorn University and he quite confident that he will graduate in 2021 😅😅😅. 
 * Nowadays he is an instructor in [Command General Staff College](http://www.cgsc.ac.th/) who in charge of Counterinsurgency Subject.
 #### Career path
