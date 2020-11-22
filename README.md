@@ -8,7 +8,7 @@
 * He experienced in field of an intelligence officer more than 10 years in southernmost Thailand.
 #### Hobby
 His hobbies includes 
-* diving 
-* camping 
-* hiking
+* diving.
+* camping.
+* hiking.
 * longrange running.
