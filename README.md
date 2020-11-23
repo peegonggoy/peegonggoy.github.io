@@ -9,13 +9,13 @@
 
 **Assignment**
 
-|:Year:   |:Position:                          |
-|---------|------------------------------------|
-|:2004    |:SFODA COMMANDER                    |
-|:2008    |:RANGER BATTALION STAFF OFFICER (S2)|
-|:2010    |:SF COMPANY COMMANDER               |
-|:2013    |:SF BATTALION STAFF OFFICER (S3)    |
-|:2015    |:CGSC Instructor                    |
+|Year    |Position                            |
+|--------|------------------------------------|
+|2004    |SFODA COMMANDER                     |
+|2008    |RANGER BATTALION STAFF OFFICER (S2) |
+|2010    |SF COMPANY COMMANDER                |
+|2013    |SF BATTALION STAFF OFFICER (S3)     |
+|2015    |CGSC Instructor                     |
 
 #### Hobby
 His hobbies includes 
