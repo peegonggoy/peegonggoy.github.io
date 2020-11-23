@@ -6,9 +6,15 @@
 #### Career path
 * **_Col.Bhoomjit Bhoominath_** served in [Special Warfare Command](http://www.swcom.rta.mi.th/) after he had graduated from Chulachomkao Military Academy School. 
 * He experienced in field of an intelligence officer more than 10 years in southernmost Thailand.
+
+|:Year:   |:Position:                          |
+|---------|------------------------------------|
+|:2004    |:SFODA COMMANDER                    |
+|:200x    |:RANGER BATTALION STAFF OFFICER (S2)|
 #### Hobby
 His hobbies includes 
 * diving.
 * camping.
 * hiking.
 * longrange running.
+
