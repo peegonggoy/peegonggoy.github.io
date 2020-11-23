@@ -7,6 +7,8 @@
 * **_Col.Bhoomjit Bhoominath_** served in [Special Warfare Command](http://www.swcom.rta.mi.th/) after he had graduated from Chulachomkao Military Academy School. 
 * He experienced in field of an intelligence officer more than 10 years in southernmost Thailand.
 
+**Assignment**
+
 |:Year:   |:Position:                          |
 |---------|------------------------------------|
 |:2004    |:SFODA COMMANDER                    |
