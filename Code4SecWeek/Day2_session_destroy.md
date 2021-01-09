@@ -42,3 +42,5 @@ function ใช้ในการทำลาย session ที่สร้า�
 * https://www.php.net/manual/en/function.session-destroy.php
 * https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715
 * https://www.unzeen.com/article/171/
+
+
