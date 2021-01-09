@@ -43,4 +43,6 @@ function ใช้ในการทำลาย session ที่สร้า�
 * https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715
 * https://www.unzeen.com/article/171/
 
+### written by Bhoomjit Bhoominath
+
 
