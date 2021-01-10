@@ -1,6 +1,6 @@
 ![error.jpg](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/error.jpg)
 
-# หา Bug ของ Software ที่เขียนด้วย PHP ด้วย error_reporting()
+# หา Error ของ Software ที่เขียนด้วย PHP ด้วย error_reporting()
 ## Intro
 PHP เป็นภาษาที่ใช้ในฝั่งของ server ถูกนำมาใช้ในการพัฒนาเวป ซึ่งโดยบางครั้งเราเขียนโปรแกรมจนเสร็จสิ้นแล้ว แต่ผลปรากฎว่า output ที่ออกมาเป็นหน้าว่างๆ หรือมีข้อผิดพลาดแต่ไม่รู้ว่าเกิดขึ้น และจากส่วนไหนของสคริปต์ function error_reporting() ใน PHP สามรถช่วยคุณได้ในการรายงานข้อผิดพลาดที่เกิดขึ้นได้ โดยปกติจะเปิดทันทีหลังจากเปิด <?php.
 ## PHP Error คืออะไร
