@@ -31,11 +31,12 @@ Form HTML ครับ
 
 ![form_post.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/form_post.png)
 
-PHP ครับ
+PHP ที่จะใช้สั่งให้พิมพ์ค่าที่ได้รับมาครับ
 
 ![show_post.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/show_post.png)
 
 ผลลัพธ์ของการใช้ $_POST ครับ
+
 ![out_show_post.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/out_show_post.png)
 
 สังเกตุที่ URL ครับ จะไม่มีการแสดงค่าตัวแปรต่างๆต่อจาก URL เดิมเลย ซึ่งแตกต่างกับแบบ $_GET นะครับวิธีนี้ช่วยเรื่องความปลอดภัยของข้อมูลที่รับ-ส่ง แบบซ่อนได้ครับหรือใช้ในการป้องกัน Data leakage ได้ในระดับหนึ่งครับ
