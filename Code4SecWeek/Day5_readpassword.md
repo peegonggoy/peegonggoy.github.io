@@ -9,7 +9,7 @@
 > public char[] readPassword() 
 
 ## ตัวอย่าง
-ก่อนอื่นมาสร้างโปรแกรมอย่างง่ายด้วยภาษา Java เพื่อให้รับค่าข้อมูลซึ่งผมจะจำลองว่าเป็นโปรแกรมในการรับค่า password เพื่อนำไปประมวลผลต่อ
+ก่อนอื่นมาสร้างโปรแกรมอย่างง่ายด้วยภาษา Java เพื่อให้รับค่าข้อมูลจาก user ซึ่งผมจะจำลองว่าเป็นโปรแกรมในการรับค่า password เพื่อนำไปประมวลผลต่อ
 
 ![code_readpassword.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/code_readpassword.png)
 
