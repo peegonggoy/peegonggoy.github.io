@@ -44,7 +44,7 @@ function session_destroy() ใช้ในการทำลาย session ท�
 ### Reference
 * [https://www.php.net/manual/en/function.session-destroy.php](https://www.php.net/manual/en/function.session-destroy.php)
 * [https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715](https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715)
-* [https://www.unzeen.com/article/171/]https://www.unzeen.com/article/171/()
+* [https://www.unzeen.com/article/171/](https://www.unzeen.com/article/171/)
 
 #### written by Bhoomjit Bhoominath
 

@@ -55,9 +55,9 @@ output ที่ได้ปรากฎว่ามาการแจ้งเ�
 function error_reporting() เป็น function ที่ใช้ในการรายงานข้อผิดพลาดจากการเขียน code ในภาษา PHP ซึ่งเป็นประโยชน์ต่อนักพัฒนาโปรแกรมในการที่จะใช้หาข้อบกพร่องของโปรแกรมและนำไปแก้ไขก่อนที่จะนำไปใช้งานจริง แต่ทั้งนี้เมื่อมีการนำโปรแกรมไปใช้งานจริงก็ควรปิดการแจ้งเตือนหรือลบ function นี้ทิ้งไปเนื่องจากอาจจะเป็น function ที่คอยแจ้งเตือนข้อผิดพลาดซึ่ง Hacker สามารถนำไปใช้ประโยชน์ในการโจมตีได้
 
 ### Reference
-* https://www.php.net/manual/en/function.error-reporting.php
-* https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/63-%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-php/304-error_reporting.html
-* http://www.w3bai.com/th/php/func_error_reporting.html
-* https://www.w3schools.com/php/func_error_reporting.asp
+* [https://www.php.net/manual/en/function.error-reporting.php](https://www.php.net/manual/en/function.error-reporting.php)
+* [https://www.mindphp.com](https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/63-%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-php/304-error_reporting.html)
+* [http://www.w3bai.com/th/php/func_error_reporting.html](http://www.w3bai.com/th/php/func_error_reporting.html)
+* [https://www.w3schools.com/php/func_error_reporting.asp](https://www.w3schools.com/php/func_error_reporting.asp)
 
 ### Written by Bhoomjit Bhoominath
