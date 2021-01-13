@@ -15,6 +15,16 @@
 * อักขระและตัวอักษรอื่นๆ จะถูกเปลี่ยนไปเป็นรูปแบบการ encode ที่ใช้ ใน 1 byte จะประกอบไปด้วย 3 ตัวอักษร "%xy" เมื่อ xy คือเลขฐาน 16 2 ตัว ซึ่งโดย default ของ Java จะใช้ UTF-8
 
 ## ตัวอย่างการใช้งาน URLEncode
+ในภาษา Java มี URLEncoder class ใช้สำหรับการ encode query string หรือ path parameters ให้อยู่ในรูปแบบ URL encode ตัวอย่างด้านล่างนี้จะแสดงการใช้งานฟังก์ชั่น URLEncoder.encode() เพื่อที่จะทำ URL encode ในภาษา Java
+
+![urlencode1.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/urlencode1.png)
+
+จะเห็นได้ว่ารูปแบบการ encode ที่ใช้เป็น UTF-8 ซึ่งเป็น parameter ตัวที่ 2 ที่ต้องใส่ข้อมูลของฟังก์ชั่น URLEncoder.encode() โดยในที่นี้ผมจะดำเนินการ encode หลังเครื่องหมาย "=" ของ URL : https://www.peegonggoy.io/?name= **_URLEncoded_** ซึ่ง Output จะเป็นไปตามรูปด้านล่าง
+
+![urlencode2.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/urlencode2.png)
+
+## สรุป
+URLEncoder.encode() เป็นฟังก์ชั่นในภาษา Java ที่จะใช้ในการ encode query string และ path parameters เมื่อมีการ request API ซึ่งหลักการทำงานจะดำเนินการเปลี่ยนอักขระต่างๆ ของข้อมูลที่ต้องการส่งไปยัง application อื่นไปเป็น string ซึ่งรูปแบบการ encode พื้นฐานของภาษา Java จะใช้ UTF-8 
 
 
 ### Referencd
