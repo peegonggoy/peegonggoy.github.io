@@ -27,8 +27,8 @@ Output หลังจาก compile โปรแกรมแล้ว ก็จ
 
 
 ### Reference
-* https://www.javatpoint.com/java-console-readpassword-method
-* https://www.geeksforgeeks.org/java-io-console-class-java/
-* https://www.tutorialspoint.com/java/io/console_readpassword.htm
+* [https://www.javatpoint.com/java-console-readpassword-method](https://www.javatpoint.com/java-console-readpassword-method)
+* [https://www.geeksforgeeks.org/java-io-console-class-java/](https://www.geeksforgeeks.org/java-io-console-class-java/)
+* [https://www.tutorialspoint.com/java/io/console_readpassword.htm](https://www.tutorialspoint.com/java/io/console_readpassword.htm)
 
 ### written by Bhoomjit Bhoominath

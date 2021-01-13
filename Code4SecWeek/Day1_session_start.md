@@ -22,9 +22,9 @@ Page1<br>
 ## สรุป
 เราจะเห็นว่า session มีประโยชน์ในการจดจำค่าของตัวแปรซึ่งจะจดจำไปจนกว่า session นั้นถูกทำลายหรือถูกลบไปโดยเราสามารถนำไปประยุกต์ใช้ในเรื่องของการ login แล้วกำหนดสิทธิ์ของผู้ใช้ที่จะให้ทำอะไรหรือไม่ให้ทำอะไรในแต่ละ Page ได้ สำหรับการทำลาย session ลบค่าของตัวแปรทั้งหมดที่อยู่ใน session เมื่อ logout เพื่อไม่ให้คนอื่นสามารถกด back เพื่อกลับไปใช้ user ของเราในการ login ได้ ติดตามต่อกันในภาค 2 น่ะครับ
 ## Reference
-* https://www.php.net/manual/en/function.session-start.php
-* http://www.phpdevthailand.com/2016/05/31/php_session
-* https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715
+* [https://www.php.net/manual/en/function.session-start.php](https://www.php.net/manual/en/function.session-start.php)
+* [http://www.phpdevthailand.com/2016/05/31/php_session](http://www.phpdevthailand.com/2016/05/31/php_session)
+* [https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715](https://www.mindphp.com/forums/viewtopic.php?f=72&t=48715)
 
 #### written by Bhoomjit Bhoominath
 
