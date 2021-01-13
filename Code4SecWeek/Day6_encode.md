@@ -7,15 +7,15 @@
 
 ดังนั้นนักพัฒนาซอร์ฟแวร์ส่วนใหญ่จำเป็นต้องทำให้ซอร์ฟแวร์ของตนมีการแสดง URL แบบ URL encoding เพื่อที่จะเข้ารหัส Query string หรือ patch parameters ในขณะที่ทำการรับส่งข้อมูลระหว่าง application URL encoding ทำให้เกิดความปลอดภัยและความน่าเชื่อถือในการรับส่งข้อมูล
 
-## การทำงานของ URLEncoder
+## การทำงานของ URL Encoder
 เมื่อทำการ Encoding string จะใช้กฎในการเปลี่ยนตัวอักษรดังนี้
 * "a - z", "A - Z" และ "0 - 9" ---> ไม่เปลี่ยนแปลง
 * อักขระ ".", "-", "*", และ "_" ---> ไม่เปลี่ยนแปลง
 * ช่องว่าง " " ---> "+".
 * อักขระและตัวอักษรอื่นๆ จะถูกเปลี่ยนไปเป็นรูปแบบการ encode ที่ใช้ ใน 1 byte จะประกอบไปด้วย 3 ตัวอักษร "%xy" เมื่อ xy คือเลขฐาน 16 2 ตัว ซึ่งโดย default ของ Java จะใช้ UTF-8
 
-## ตัวอย่างการใช้งาน URLEncode
-ในภาษา Java มี URLEncoder class ใช้สำหรับการ encode query string หรือ path parameters ให้อยู่ในรูปแบบ URL encode ตัวอย่างด้านล่างนี้จะแสดงการใช้งานฟังก์ชั่น URLEncoder.encode() เพื่อที่จะทำ URL encode ในภาษา Java
+## ตัวอย่างการใช้งาน URL Encode
+ในภาษา Java มี URL encoder class ใช้สำหรับการ encode query string หรือ path parameters ให้อยู่ในรูปแบบ URL encode ตัวอย่างด้านล่างนี้จะแสดงการใช้งาน method encode() เพื่อที่จะทำ URL encode ในภาษา Java
 
 ![urlencode1.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/urlencode1.png)
 
@@ -24,7 +24,7 @@
 ![urlencode2.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/urlencode2.png)
 
 ## สรุป
-URLEncoder.encode() เป็นฟังก์ชั่นในภาษา Java ที่จะใช้ในการ encode query string และ path parameters เมื่อมีการ request API ซึ่งหลักการทำงานจะดำเนินการเปลี่ยนอักขระต่างๆ ของข้อมูลที่ต้องการส่งไปยัง application อื่นไปเป็น string ซึ่งรูปแบบการ encode พื้นฐานของภาษา Java จะใช้ UTF-8 
+encode() เป็น method ในภาษา Java ที่จะใช้ในการ encode query string และ path parameters เมื่อมีการ request API ซึ่งหลักการทำงานจะดำเนินการเปลี่ยนอักขระต่างๆ ของข้อมูลที่ต้องการส่งไปยัง application อื่นไปเป็น string ซึ่งรูปแบบการ encode พื้นฐานของภาษา Java จะใช้ UTF-8 
 
 
 ### Referencd
