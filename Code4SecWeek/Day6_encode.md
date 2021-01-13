@@ -28,5 +28,5 @@ URLEncoder.encode() เป็นฟังก์ชั่นในภาษา Ja
 
 
 ### Referencd
-* https://www.urlencoder.io/java/
-* https://docs.oracle.com/javase/7/docs/api/java/net/URLEncoder.html
+* [https://www.urlencoder.io/java/](https://www.urlencoder.io/java/)
+* [https://docs.oracle.com/javase/7/docs/api/java/net/URLEncoder.html](https://docs.oracle.com/javase/7/docs/api/java/net/URLEncoder.html)
