@@ -30,3 +30,5 @@ encode() เป็น method ในภาษา Java ที่จะใช้ใ
 ### Referencd
 * [https://www.urlencoder.io/java/](https://www.urlencoder.io/java/)
 * [https://docs.oracle.com/javase/7/docs/api/java/net/URLEncoder.html](https://docs.oracle.com/javase/7/docs/api/java/net/URLEncoder.html)
+
+### written by Bhoomjit Bhoominath
