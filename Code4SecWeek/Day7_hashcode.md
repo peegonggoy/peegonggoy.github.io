@@ -11,6 +11,14 @@ Hash คือการแปลงข้อมูลจากแบบหนึ
 
 ![equal.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/equal.png)
 
+## ตัวอย่างการทำงาน
+
+![ex_hash.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/ex_hash.png)
+
+Output
+
+![out_ex_hash.png](https://peegonggoy.github.io/Code4SecWeek/PicCode4Sec/out_ex_hash.png)
+
 ### Reference
 * [https://www.educative.io/edpresso/what-is-a-hash-code-in-java](https://www.educative.io/edpresso/what-is-a-hash-code-in-java)
 * [https://www.baeldung.com/java-hashcode](https://www.baeldung.com/java-hashcode)
