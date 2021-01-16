@@ -48,7 +48,7 @@ function session_destroy() ใช้ในการทำลาย session ท�
 
 #### written by Bhoomjit Bhoominath
 
-### All of my episode
+### All of my episodes.
 [https://peegonggoy.github.io/Code4SecWeek/Day1_session_start](https://peegonggoy.github.io/Code4SecWeek/Day1_session_start)<br>
 [https://peegonggoy.github.io/Code4SecWeek/Day3_error_reporting](https://peegonggoy.github.io/Code4SecWeek/Day3_error_reporting)<br>
 [https://peegonggoy.github.io/Code4SecWeek/Day4_%24Post](https://peegonggoy.github.io/Code4SecWeek/Day4_%24Post)<br>

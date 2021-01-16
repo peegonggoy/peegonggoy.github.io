@@ -29,7 +29,7 @@ Page1<br>
 
 #### written by Bhoomjit Bhoominath
 
-### All of my episode
+### All of my episodes.
 [https://peegonggoy.github.io/Code4SecWeek/Day2_session_destroy](https://peegonggoy.github.io/Code4SecWeek/Day2_session_destroy)<br>
 [https://peegonggoy.github.io/Code4SecWeek/Day3_error_reporting](https://peegonggoy.github.io/Code4SecWeek/Day3_error_reporting)<br>
 [https://peegonggoy.github.io/Code4SecWeek/Day4_%24Post](https://peegonggoy.github.io/Code4SecWeek/Day4_%24Post)<br>
