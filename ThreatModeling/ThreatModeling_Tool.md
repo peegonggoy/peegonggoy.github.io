@@ -71,5 +71,11 @@ Threat Modeling Tool เป็นเครื่องมือหลักข�
 
 ![MSTMT10](https://github.com/peegonggoy/peegonggoy.github.io/blob/main/ThreatModeling/Pic/MSTMT10.jpg?raw=true)
 
+Reference
+* [https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started)
+* [https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
+
+Written by Bhoomjit Bhoominath
+
 
 
